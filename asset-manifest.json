@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09178ce7.css",
+    "main.js": "/static/js/main.cfabcd30.js",
+    "static/media/NFT.png": "/static/media/NFT.59e9cfef1b818e9e6016.png",
+    "static/media/Genie-User.png": "/static/media/Genie-User.574f498aad76e5f82d9d.png",
+    "static/media/Genie-Seller.png": "/static/media/Genie-Seller.88258f665ee81ebdac7c.png",
+    "static/media/portrait.png": "/static/media/portrait.9cad372305ccce73ccbf.png",
+    "index.html": "/index.html",
+    "main.09178ce7.css.map": "/static/css/main.09178ce7.css.map",
+    "main.cfabcd30.js.map": "/static/js/main.cfabcd30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09178ce7.css",
+    "static/js/main.cfabcd30.js"
+  ]
+}
